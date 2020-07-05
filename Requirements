@@ -1,0 +1,7 @@
+The below are the components and their individual versions used for the script:
+
+Chrome Browser - 83.0.4103.61
+Chrome Driver - 83.0.4103.39
+Selenium-java JAR files - 3.141.59
+TestNG - 7.0.0
+Apache poi JAR files - 4.1.2
